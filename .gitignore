@@ -1,0 +1,20 @@
+# Benchmark results
+*-benchmark.txt
+*-resource-usage.csv
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace 
